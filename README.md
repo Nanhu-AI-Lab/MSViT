@@ -4,7 +4,7 @@
 MSVIT has achieved 85.06% top-1 accuracy on ImageNet-1K with 224×224 input size and 4-time steps using direct training from scratch.
 
 ## Note: 
-Partial code release is still under review to follow the policy of  China Nanhu Academy of Electronics and Information Technology.
+The partial code release is still under review to comply with the policy of the  China Nanhu Academy of Electronics and Information Technology.
 ## News
 
 [2025.4.29] Accepted by IJCAI 2025.
