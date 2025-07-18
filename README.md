@@ -156,4 +156,4 @@ Related project: [spikformer](https://github.com/ZK-Zhou/spikformer), [spikingfo
 
 For help or issues using this git, please submit a GitHub issue. 
 
-For other communications related to this git, please contact huawei@cnaeit.com, yangyangshu@usw.edu.au or zhouchenlin19@mails.ucas.ac.cn.
+For other communications related to this git, please contact huawei@cnaeit.com, yangyang.shu@unsw.edu.au or zhouchenlin19@mails.ucas.ac.cn.
