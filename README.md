@@ -60,7 +60,7 @@ We validate our approach across various main data sets. The experimental results
 timm==0.6.12
 cupy==11.4.0
 torch==1.12.1
-spikingjelly==0.0.0.0.12
+spikingjelly==0.0.0.0.14
 pyyaml
 tensorboard
 
